@@ -1,4 +1,4 @@
-# Where to report issues, ask questions, etc.?
+# Where to report issues, ask questions, etc.
 
 There are multiple ways to engage with the Contiki-NG community:
 
